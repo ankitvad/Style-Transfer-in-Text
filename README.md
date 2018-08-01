@@ -19,16 +19,21 @@ This is a paper list for style transfer in text. It also contains some related r
 - Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer, NAACL-2018, [[paper]](https://arxiv.org/abs/1804.06437)
 - SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation, NAACL-2018, [[paper]](https://arxiv.org/abs/1804.04093)
 - Sentiment Transfer using Seq2Seq Adversarial Autoencoders, project for CSYE7245 Northeastern University, [[paper]](https://arxiv.org/abs/1804.04003)
-- Style Transfer Through Back-Translation, Arxiv, [[paper]](https://arxiv.org/abs/1804.09000)
+- Style Transfer Through Back-Translation, ACL-2018, [[paper]](https://arxiv.org/abs/1804.09000)
+- Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach, ACL-2018, [[paper]](https://arxiv.org/abs/1805.05181),[[code]](https://github.com/lancopku/unpaired-sentiment-translation)
+- Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer, ACL-2018, [[paper]](https://arxiv.org/abs/1805.07685)
+- Unsupervised Text Style Transfer using Language Models as Discriminators, Arxiv, [[paper]](https://arxiv.org/abs/1805.11749)
 
 ## Stylistic Related Papers
-- Controlling Linguistic Style Aspects in Neural Language Generation, Arxiv-2017, [[paper]](https://arxiv.org/abs/1707.02633)
+- Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
 - Is writing style predictive of scientific fraud?, EMNLP-2017 Workshop, [[paper]](http://www.aclweb.org/anthology/W17-4905)
-
+- Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing, Arxiv, [[paper]](https://arxiv.org/abs/1804.07007)
+- Polite Dialogue Generation Without Parallel Data, TACL, [[paper]](https://arxiv.org/abs/1805.03162)
 
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
+- Stylistic Variation, NAACL-HLT-2018, [[link]](https://sites.google.com/view/2ndstylisticvariation/home)
 
 
 # Copyright 
